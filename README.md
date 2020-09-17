@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/43106572/93477271-73780c00-f918-11ea-9861-06e86049c11a.gif" alt="Dinesh" width="200"/>
 
-<!--
-**DineshTdd/DineshTdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 this is Dinesh!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a MERN Stack Developer.
+- 🌱 I’m currently learning easy coding with calm mindset.
+- 👯 I’m looking to collaborate on projects that interests me to code outside my routine work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages Interested
+
+Javascript, Typescript, C++, Python...
+
+## Frameworks Interested 
+
+React, Angular, Vue...
+
+## Stats
+
+<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=DineshTdd&layout=compact&show_icons=true&theme=merko" alt="Dinesh github stats"/>
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshTdd&layout=compact&show_icons=true&theme=merko" alt="Dinesh Language stats"/>
