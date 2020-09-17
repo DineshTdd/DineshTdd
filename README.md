@@ -16,5 +16,5 @@ React, Angular, Vue...
 
 ## Stats
 
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=DineshTdd&layout=compact&show_icons=true&theme=merko" alt="Dinesh github stats"/>
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshTdd&layout=compact&show_icons=true&theme=merko" alt="Dinesh Language stats"/>
+<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=DineshTdd&layout=compact&show_icons=true&theme=algolia" alt="Dinesh github stats"/>
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshTdd&layout=compact&show_icons=true&theme=algolia" alt="Dinesh Language stats"/>
