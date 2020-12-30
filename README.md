@@ -2,8 +2,8 @@
 
 ### Hi there 👋 this is Dinesh!
 
-- 🔭 I’m currently working as a MERN Stack Developer.
-- 🌱 I’m currently learning easy coding with calm mindset.
+- 🔭 I’m a MERN Stack Developer.
+- 🌱 I’m currently not into programming.
 - 👯 I’m looking to collaborate on projects that interests me to code outside my routine work.
 
 ## Languages Interested
