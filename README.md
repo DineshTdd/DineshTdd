@@ -2,9 +2,9 @@
 
 ### Hi there 👋 this is Dinesh!
 
-- 🔭 I’m a MERN Stack Developer.
-- 🌱 I’m currently not into programming.
-- 👯 I’m looking to collaborate on projects that interests me to code outside my routine work.
+- 🔭 Full Stack Developer.
+- 🌱 Zeal for coding.
+- 👯 I’m looking to collaborate on projects that interests me.
 
 ## Languages Interested
 
@@ -12,7 +12,7 @@ Javascript, Typescript, C++, Python...
 
 ## Frameworks Interested 
 
-React, Angular, Vue...
+React, Angular, Vue, Django...
 
 ## Stats
 
